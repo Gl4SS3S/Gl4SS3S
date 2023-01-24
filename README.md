@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JThurling
-- 👀 I’m interested in everything software related
-- 🌱 I’m currently going through OSSU curriculum
+- I’m interested in everything software related
+- [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 - Also busy learning CyberSecurity
-
-<!---
-JThurling/JThurling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
