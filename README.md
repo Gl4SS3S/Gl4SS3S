@@ -10,4 +10,4 @@ Setting Up a Few Open Source Projects:
 
 
 # Personal Goals:
-[Roadmap](https://res.cloudinary.com/thurling/image/upload/v1679648357/Personal%20Projects/Read%20me/GL4ssco.drawio_enciiz.png)
+![Roadmap](https://res.cloudinary.com/thurling/image/upload/v1679648357/Personal%20Projects/Read%20me/GL4ssco.drawio_enciiz.png)
