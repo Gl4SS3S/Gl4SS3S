@@ -5,13 +5,9 @@ Setting Up a Few Open Source Projects:
  - MathLib: A Math Library that extends the functionality of the built-in ones
  - Many More!
 
-## Commits 🧑🏻‍💻
+## Activity 🧑🏻‍💻
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![snake gif](https://github.com/GL4SS3S/GL4SS3S/blob/output/github-contribution-grid-snake.gif)
 
 ## Currently Learning 📚:
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
