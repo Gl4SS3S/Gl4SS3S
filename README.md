@@ -11,6 +11,3 @@ Setting Up a Few Open Source Projects:
 
 ## Currently Learning 📚:
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
-
-## Gl4SS Co. Roadmap 🗺️:
-![Roadmap](https://res.cloudinary.com/thurling/image/upload/v1679648357/Personal%20Projects/Read%20me/GL4ssco.drawio_enciiz.png)
