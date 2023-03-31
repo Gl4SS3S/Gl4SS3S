@@ -14,4 +14,4 @@ Setting Up a Few Open Source Projects:
 ![University of London - Computer Science](https://img.shields.io/badge/University%20of%20London-Computer%20Science-red)
 
 ## Get Social 💬:
-![Twitter Jacques Thurling](https://img.shields.io/twitter/follow/JT_Gl4SS3S?style=social)
+[![Twitter Jacques Thurling](https://img.shields.io/twitter/follow/JT_Gl4SS3S?style=social)](https://twitter.com/intent/follow?screen_name=JT_Gl4SS3S)
