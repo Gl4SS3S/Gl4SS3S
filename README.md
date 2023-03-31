@@ -11,3 +11,7 @@ Setting Up a Few Open Source Projects:
 
 ## Currently Learning 📚:
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+![University of London - Computer Science](https://img.shields.io/badge/University%20of%20London-Computer%20Science-red)
+
+## Get Social 💬:
+![Twitter Jacques Thurling](https://img.shields.io/twitter/follow/JT_Gl4SS3S?style=social)
