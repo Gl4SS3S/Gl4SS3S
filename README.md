@@ -1,9 +1,4 @@
 I’m GL4SS3S - Founder of GL4SS Co. (doesn't do much other than me being able to say I'm a founder 😋)
-ہ
-Setting Up a Few Open Source Projects:
- - AlgoLib: A DSA library for C# to make projects easier
- - MathLib: A Math Library that extends the functionality of the built-in ones
- - Many More!
 
 ## Activity 🧑🏻‍💻
 
