@@ -1,4 +1,4 @@
-I’m GL4SS3S - Founder of GL4SS Co. (doesn't do much other than me being able to say I'm a founder 😋)
+I’m GL4SS3S - Founder of GL4SS Co. (doesn't do much other than me being able to say I'm a founder 😋).
 
 ## Currently Learning 📚:
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
