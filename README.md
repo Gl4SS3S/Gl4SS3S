@@ -5,4 +5,4 @@ I’m Doge - Founder of GL4SS Co. (doesn't do much other than me being able to s
 ![University of London - Computer Science](https://img.shields.io/badge/University%20of%20London-Computer%20Science-red)
 
 ## Get Social 💬:
-[![Twitter Jacques Thurling](https://img.shields.io/twitter/follow/Doge?style=social)](https://twitter.com/intent/follow?screen_name=doge_codes)
+[![Twitter Doge](https://img.shields.io/twitter/follow/Doge?style=social)](https://twitter.com/intent/follow?screen_name=doge_codes)
